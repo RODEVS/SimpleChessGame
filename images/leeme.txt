@@ -1,0 +1,20 @@
+
+Proyecto Ajedrez
+
+Abreviatura de las imagenes.
+
+IMPORTANTE: No cambiar o eliminar estas imagenes ni su carpeta raiz.
+El mas ligero cambio podria causar errores en el programa.
+
+ab - Alfil Blanco
+an - Alfil Negro
+cb - Caballo Blanco
+cn - Caballo Negro
+db - Dama Blanco
+dn - Dama Negro
+pb - Peon Blanco
+pn - Peon Negro
+rb - Rey Blanco
+rn - Rey Negro
+tb - Torre Blanco
+tn - Torre Negro
